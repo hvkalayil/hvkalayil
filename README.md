@@ -1,5 +1,4 @@
 ## Hello World 🌎
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/working.gif" width=400>
@@ -21,5 +20,5 @@
 
 ### My Stats
 ---
-<img align="left" alt="Hosea's Github Stats" src="https://github-readme-stats.hvkalayil.vercel.app/api?username=hvkalayil&show_icons=true&hide_border=true" />
+<img align="left" alt="Hosea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hvkalayil&show_icons=true&hide_border=true" />
 
