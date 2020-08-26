@@ -9,6 +9,6 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> |
 |:---:|:---:|:---:|
 
