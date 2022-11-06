@@ -15,7 +15,7 @@
 
 ### My Favourite Frameworks  👷
 ---
-|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flask.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/bootstrap.png" width=60> | 
+|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/angular.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flask.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/tailwind.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/bootstrap.png" width=60> | 
 |:---:|:---:|:---:|
 
 ### My Stats
